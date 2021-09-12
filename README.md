@@ -12,6 +12,8 @@
 [![forthebadge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](http://forthebadge.com)
 [![forthebadge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](http://forthebadge.com)
 [![forthebadge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](http://forthebadge.com)
+[![forthebadge](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)](http://forthebadge.com)
+[![forthebadge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](http://forthebadge.com)
 [![forthebadge](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white)](http://forthebadge.com)
 
 - **Back** réalisé avec un Symfony skeleton. L'application nécessite un token pour consommer l'API de l'IUCN, j'ai donc fait le choix d'utiliser un petit framework afin de le sécuriser en faisant mes requêtes depuis un back-end : 
