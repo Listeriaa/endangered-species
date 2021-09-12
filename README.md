@@ -8,6 +8,12 @@
 
 ## Technologies
 
+[![forthebadge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](http://forthebadge.com)
+[![forthebadge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](http://forthebadge.com)
+[![forthebadge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](http://forthebadge.com)
+[![forthebadge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](http://forthebadge.com)
+[![forthebadge](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white)](http://forthebadge.com)
+
 - **Back** réalisé avec un Symfony skeleton. L'application nécessite un token pour consommer l'API de l'IUCN, j'ai donc fait le choix d'utiliser un petit framework afin de le sécuriser en faisant mes requêtes depuis un back-end : 
   - Bundles utilisés : Nelmio/cors, annotations, HTTP Client, HTTP Foundation, profiler.
 
