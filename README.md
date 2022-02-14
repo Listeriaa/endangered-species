@@ -1,5 +1,5 @@
 # One Page présentant les espèces animales et végétales sur la liste Rouge de l'IUCN
-# Version en Ligne non FONCTIONNELLE!!
+# Premiere version - non mise en ligne car il existe une V2 que vous trouvez ici [Angular Version](https://github.com/Listeriaa/Endangered-species-Angular)
 
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 
